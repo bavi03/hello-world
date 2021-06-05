@@ -1,4 +1,2 @@
 # hello-world
-Just another repository
-
-Trying to learn how github works with commits, pull request and push.
+Seeing what happens if I delete the content completely and add new ones.
